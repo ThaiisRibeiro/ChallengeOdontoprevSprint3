@@ -77,6 +77,6 @@ public class UsuarioFactory
    ```sh
    dotnet run
    ```
-5. **Acesse o Swagger para testar os endpoints:** 
+5. **Acesse o Swagger para testar os endpoints** 
 
 
