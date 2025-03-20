@@ -79,4 +79,8 @@ public class UsuarioFactory
    ```
 5. **Acesse o Swagger para testar os endpoints** 
 
+## 👥 Integrantes do Grupo
+- **Thaís Ribeiro Asfur** (rm553870) 🎯
+- **Lucas Minozzo Bronzeri** (rm553745)
+- **Diego Costa Silva** (rm552648)
 
