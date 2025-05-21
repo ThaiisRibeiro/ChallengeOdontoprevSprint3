@@ -30,7 +30,7 @@ Optamos pela abordagem de **microservices** devido aos seguintes motivos:
 🔹 **Diferença para uma arquitetura monolítica:** Enquanto um monólito concentra toda a lógica em uma única aplicação, a abordagem de **microservices** divide o sistema em várias partes menores, facilitando sua manutenção e escalabilidade.
 
 ## 📌 Endpoints CRUD 🗄️
-A API realiza operações CRUD utilizando **Oracle Database** para os seguintes recursos:
+A API realiza operações CRUD utilizando **Sql Developer** para os seguintes recursos:
 - **Pacientes** 👤
 - **Dentistas** 🦷
 - **Clínicas** 🏥
